@@ -41,7 +41,6 @@ const QuoteDisplay: React.FC<QuoteProps> = ({ quote, className = '' }) => {
 
   return (
     <div className={`relative p-8 sm:p-10 rounded-2xl bg-white/10 backdrop-blur-lg text-white shadow-xl border border-white/20 w-full max-w-2xl mx-auto ${className}`}>
-      <div className="absolute -top-5 -left-5 text-8xl text-purple-400 opacity-50 font-serif">"</div>
       
       <div className="relative">
         <blockquote className="mb-5 font-serif text-xl sm:text-2xl leading-relaxed italic">
