@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quote-quiver.git
+git clone https://github.com/tosif121/quote-quiver.git
 cd quote-quiver
 ```
 
